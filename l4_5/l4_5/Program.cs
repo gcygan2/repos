@@ -11,7 +11,7 @@ namespace l4_5
         static void Main(string[] args)
         {
             List <Gra> gry = new List<Gra>();
-            Gra umierajaceSwiatlo = new Gra("Umierajace światło", 99.99m);
+            Gra umierajaceSwiatlo = new Gra("Umierajace cienie", 99.99m);
             gry.Add(umierajaceSwiatlo);
             Gra minecraft = new Gra("Minecraft", 99.99m);
             gry.Add(minecraft);
