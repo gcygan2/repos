@@ -5,3 +5,10 @@ C:\Users\13-19 lat\source\repos\l4_5\l4_5\obj\Debug\l4_5.csproj.AssemblyReferenc
 C:\Users\13-19 lat\source\repos\l4_5\l4_5\obj\Debug\l4_5.csproj.CoreCompileInputs.cache
 C:\Users\13-19 lat\source\repos\l4_5\l4_5\obj\Debug\l4_5.exe
 C:\Users\13-19 lat\source\repos\l4_5\l4_5\obj\Debug\l4_5.pdb
+C:\Users\Andzia\source\repos\l4_5\l4_5\bin\Debug\l4_5.exe.config
+C:\Users\Andzia\source\repos\l4_5\l4_5\bin\Debug\l4_5.exe
+C:\Users\Andzia\source\repos\l4_5\l4_5\bin\Debug\l4_5.pdb
+C:\Users\Andzia\source\repos\l4_5\l4_5\obj\Debug\l4_5.csprojAssemblyReference.cache
+C:\Users\Andzia\source\repos\l4_5\l4_5\obj\Debug\l4_5.csproj.CoreCompileInputs.cache
+C:\Users\Andzia\source\repos\l4_5\l4_5\obj\Debug\l4_5.exe
+C:\Users\Andzia\source\repos\l4_5\l4_5\obj\Debug\l4_5.pdb
