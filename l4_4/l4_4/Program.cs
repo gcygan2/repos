@@ -25,6 +25,7 @@ namespace l4_4
                 Console.WriteLine("Aktualna średnia {0}", suma / liczby.Count);
             }
 
+
             Console.ReadKey();
         }
     }
