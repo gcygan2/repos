@@ -4,26 +4,26 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace RPG
+namespace RPG.Klasy
 {
-    class Mag :Hero
+    class Wojownik :Hero
     {
-        public int Moc;
+        public int Obrona;
 
-        public Mag(string nazwa, int hp, int atak, int moc)
+        public Wojownik(string nazwa, int hp, int atak, int obrona)
            : base(nazwa, hp, atak)
         {
-            Moc = moc;
+            Obrona = obrona;
         }
 
         public void OdejmijHp(int atak)
         {
-            Hp -= atak;
+            Hp -= atak - (Obrona / 3);
         }
 
         public int PobierzSileAtaku()
         {
-            return Atak + (Moc / 5);
+            return Atak;
         }
     }
 }

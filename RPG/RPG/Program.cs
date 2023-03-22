@@ -1,4 +1,5 @@
 ﻿using System;
+using RPG.Klasy;
 
 namespace RPG
 {
