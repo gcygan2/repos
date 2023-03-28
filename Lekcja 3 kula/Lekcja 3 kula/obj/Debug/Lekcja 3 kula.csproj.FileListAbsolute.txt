@@ -1,0 +1,7 @@
+C:\Users\13-19 lat\source\repos\Lekcja 3 kula\Lekcja 3 kula\bin\Debug\Lekcja 3 kula.exe.config
+C:\Users\13-19 lat\source\repos\Lekcja 3 kula\Lekcja 3 kula\bin\Debug\Lekcja 3 kula.exe
+C:\Users\13-19 lat\source\repos\Lekcja 3 kula\Lekcja 3 kula\bin\Debug\Lekcja 3 kula.pdb
+C:\Users\13-19 lat\source\repos\Lekcja 3 kula\Lekcja 3 kula\obj\Debug\Lekcja 3 kula.csproj.AssemblyReference.cache
+C:\Users\13-19 lat\source\repos\Lekcja 3 kula\Lekcja 3 kula\obj\Debug\Lekcja 3 kula.csproj.CoreCompileInputs.cache
+C:\Users\13-19 lat\source\repos\Lekcja 3 kula\Lekcja 3 kula\obj\Debug\Lekcja 3 kula.exe
+C:\Users\13-19 lat\source\repos\Lekcja 3 kula\Lekcja 3 kula\obj\Debug\Lekcja 3 kula.pdb

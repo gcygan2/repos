@@ -1,0 +1,7 @@
+C:\Users\13-19 lat\source\repos\Lekcja 5 operatory\Lekcja 5 operatory\bin\Debug\Lekcja 5 operatory.exe.config
+C:\Users\13-19 lat\source\repos\Lekcja 5 operatory\Lekcja 5 operatory\bin\Debug\Lekcja 5 operatory.exe
+C:\Users\13-19 lat\source\repos\Lekcja 5 operatory\Lekcja 5 operatory\bin\Debug\Lekcja 5 operatory.pdb
+C:\Users\13-19 lat\source\repos\Lekcja 5 operatory\Lekcja 5 operatory\obj\Debug\Lekcja 5 operatory.csproj.AssemblyReference.cache
+C:\Users\13-19 lat\source\repos\Lekcja 5 operatory\Lekcja 5 operatory\obj\Debug\Lekcja 5 operatory.csproj.CoreCompileInputs.cache
+C:\Users\13-19 lat\source\repos\Lekcja 5 operatory\Lekcja 5 operatory\obj\Debug\Lekcja 5 operatory.exe
+C:\Users\13-19 lat\source\repos\Lekcja 5 operatory\Lekcja 5 operatory\obj\Debug\Lekcja 5 operatory.pdb

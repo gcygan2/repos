@@ -1,0 +1,10 @@
+C:\Users\13-19 lat\source\repos\Lekcja 5 gra\Lekcja 5 gra\bin\Debug\Lekcja 5 gra.exe.config
+C:\Users\13-19 lat\source\repos\Lekcja 5 gra\Lekcja 5 gra\bin\Debug\Lekcja 5 gra.exe
+C:\Users\13-19 lat\source\repos\Lekcja 5 gra\Lekcja 5 gra\bin\Debug\Lekcja 5 gra.pdb
+C:\Users\13-19 lat\source\repos\Lekcja 5 gra\Lekcja 5 gra\obj\Debug\Lekcja 5 gra.csproj.AssemblyReference.cache
+C:\Users\13-19 lat\source\repos\Lekcja 5 gra\Lekcja 5 gra\obj\Debug\Lekcja_5_gra.Form1.resources
+C:\Users\13-19 lat\source\repos\Lekcja 5 gra\Lekcja 5 gra\obj\Debug\Lekcja_5_gra.Properties.Resources.resources
+C:\Users\13-19 lat\source\repos\Lekcja 5 gra\Lekcja 5 gra\obj\Debug\Lekcja 5 gra.csproj.GenerateResource.cache
+C:\Users\13-19 lat\source\repos\Lekcja 5 gra\Lekcja 5 gra\obj\Debug\Lekcja 5 gra.csproj.CoreCompileInputs.cache
+C:\Users\13-19 lat\source\repos\Lekcja 5 gra\Lekcja 5 gra\obj\Debug\Lekcja 5 gra.exe
+C:\Users\13-19 lat\source\repos\Lekcja 5 gra\Lekcja 5 gra\obj\Debug\Lekcja 5 gra.pdb

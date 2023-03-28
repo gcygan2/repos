@@ -1,0 +1,10 @@
+C:\Users\13-19 lat\source\repos\Lekcja 4 internet\Lekcja 4 internet\bin\Debug\Lekcja 4 internet.exe.config
+C:\Users\13-19 lat\source\repos\Lekcja 4 internet\Lekcja 4 internet\bin\Debug\Lekcja 4 internet.exe
+C:\Users\13-19 lat\source\repos\Lekcja 4 internet\Lekcja 4 internet\bin\Debug\Lekcja 4 internet.pdb
+C:\Users\13-19 lat\source\repos\Lekcja 4 internet\Lekcja 4 internet\obj\Debug\Lekcja 4 internet.csproj.AssemblyReference.cache
+C:\Users\13-19 lat\source\repos\Lekcja 4 internet\Lekcja 4 internet\obj\Debug\Lekcja_4_internet.Form1.resources
+C:\Users\13-19 lat\source\repos\Lekcja 4 internet\Lekcja 4 internet\obj\Debug\Lekcja_4_internet.Properties.Resources.resources
+C:\Users\13-19 lat\source\repos\Lekcja 4 internet\Lekcja 4 internet\obj\Debug\Lekcja 4 internet.csproj.GenerateResource.cache
+C:\Users\13-19 lat\source\repos\Lekcja 4 internet\Lekcja 4 internet\obj\Debug\Lekcja 4 internet.csproj.CoreCompileInputs.cache
+C:\Users\13-19 lat\source\repos\Lekcja 4 internet\Lekcja 4 internet\obj\Debug\Lekcja 4 internet.exe
+C:\Users\13-19 lat\source\repos\Lekcja 4 internet\Lekcja 4 internet\obj\Debug\Lekcja 4 internet.pdb

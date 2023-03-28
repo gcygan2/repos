@@ -1,0 +1,10 @@
+C:\Users\13-19 lat\source\repos\Lekcja 5 3D\Lekcja 5 3D\bin\Debug\Lekcja 5 3D.exe.config
+C:\Users\13-19 lat\source\repos\Lekcja 5 3D\Lekcja 5 3D\bin\Debug\Lekcja 5 3D.exe
+C:\Users\13-19 lat\source\repos\Lekcja 5 3D\Lekcja 5 3D\bin\Debug\Lekcja 5 3D.pdb
+C:\Users\13-19 lat\source\repos\Lekcja 5 3D\Lekcja 5 3D\obj\Debug\Lekcja 5 3D.csproj.AssemblyReference.cache
+C:\Users\13-19 lat\source\repos\Lekcja 5 3D\Lekcja 5 3D\obj\Debug\Lekcja_5_3D.Form1.resources
+C:\Users\13-19 lat\source\repos\Lekcja 5 3D\Lekcja 5 3D\obj\Debug\Lekcja_5_3D.Properties.Resources.resources
+C:\Users\13-19 lat\source\repos\Lekcja 5 3D\Lekcja 5 3D\obj\Debug\Lekcja 5 3D.csproj.GenerateResource.cache
+C:\Users\13-19 lat\source\repos\Lekcja 5 3D\Lekcja 5 3D\obj\Debug\Lekcja 5 3D.csproj.CoreCompileInputs.cache
+C:\Users\13-19 lat\source\repos\Lekcja 5 3D\Lekcja 5 3D\obj\Debug\Lekcja 5 3D.exe
+C:\Users\13-19 lat\source\repos\Lekcja 5 3D\Lekcja 5 3D\obj\Debug\Lekcja 5 3D.pdb

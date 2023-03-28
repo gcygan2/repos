@@ -1,0 +1,10 @@
+C:\Users\13-19 lat\source\repos\Lekcja 4 oceny\Lekcja 4 oceny\bin\Debug\Lekcja 4 oceny.exe.config
+C:\Users\13-19 lat\source\repos\Lekcja 4 oceny\Lekcja 4 oceny\bin\Debug\Lekcja 4 oceny.exe
+C:\Users\13-19 lat\source\repos\Lekcja 4 oceny\Lekcja 4 oceny\bin\Debug\Lekcja 4 oceny.pdb
+C:\Users\13-19 lat\source\repos\Lekcja 4 oceny\Lekcja 4 oceny\obj\Debug\Lekcja 4 oceny.csproj.AssemblyReference.cache
+C:\Users\13-19 lat\source\repos\Lekcja 4 oceny\Lekcja 4 oceny\obj\Debug\Lekcja_4_oceny.Form1.resources
+C:\Users\13-19 lat\source\repos\Lekcja 4 oceny\Lekcja 4 oceny\obj\Debug\Lekcja_4_oceny.Properties.Resources.resources
+C:\Users\13-19 lat\source\repos\Lekcja 4 oceny\Lekcja 4 oceny\obj\Debug\Lekcja 4 oceny.csproj.GenerateResource.cache
+C:\Users\13-19 lat\source\repos\Lekcja 4 oceny\Lekcja 4 oceny\obj\Debug\Lekcja 4 oceny.csproj.CoreCompileInputs.cache
+C:\Users\13-19 lat\source\repos\Lekcja 4 oceny\Lekcja 4 oceny\obj\Debug\Lekcja 4 oceny.exe
+C:\Users\13-19 lat\source\repos\Lekcja 4 oceny\Lekcja 4 oceny\obj\Debug\Lekcja 4 oceny.pdb
