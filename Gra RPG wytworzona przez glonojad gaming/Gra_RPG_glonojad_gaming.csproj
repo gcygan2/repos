@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{65E14395-9B14-46E7-AD48-B96EEBCB8241}</ProjectGuid>
+    <ProjectGuid>{A27A0269-D3E4-412D-AEEA-1BD8A0BC52F0}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>l4_4</RootNamespace>
-    <AssemblyName>l4_4</AssemblyName>
+    <RootNamespace>Gra_RPG_wytworzona_przez_glonojad_gaming</RootNamespace>
+    <AssemblyName>Gra RPG wytworzona przez glonojad gaming</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,11 +43,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="GenerujPostac.cs" />
+    <Compile Include="Hero.cs" />
+    <Compile Include="Mag.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Wojownik.cs" />
   </ItemGroup>
-  <ItemGroup>
-    <None Include="App.config" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

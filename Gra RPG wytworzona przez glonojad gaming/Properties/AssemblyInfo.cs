@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("l4_4")]
+[assembly: AssemblyTitle("Gra RPG wytworzona przez glonojad gaming")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("l4_4")]
+[assembly: AssemblyProduct("Gra RPG wytworzona przez glonojad gaming")]
 [assembly: AssemblyCopyright("Copyright ©  2023")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("65e14395-9b14-46e7-ad48-b96eebcb8241")]
+[assembly: Guid("a27a0269-d3e4-412d-aeea-1bd8a0bc52f0")]
 
 // Version information for an assembly consists of the following four values:
 //

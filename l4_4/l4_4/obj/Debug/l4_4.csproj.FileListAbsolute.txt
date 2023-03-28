@@ -1,7 +1,0 @@
-C:\Users\13-19 lat\source\repos\l4_4\l4_4\bin\Debug\l4_4.exe.config
-C:\Users\13-19 lat\source\repos\l4_4\l4_4\bin\Debug\l4_4.exe
-C:\Users\13-19 lat\source\repos\l4_4\l4_4\bin\Debug\l4_4.pdb
-C:\Users\13-19 lat\source\repos\l4_4\l4_4\obj\Debug\l4_4.csproj.AssemblyReference.cache
-C:\Users\13-19 lat\source\repos\l4_4\l4_4\obj\Debug\l4_4.csproj.CoreCompileInputs.cache
-C:\Users\13-19 lat\source\repos\l4_4\l4_4\obj\Debug\l4_4.exe
-C:\Users\13-19 lat\source\repos\l4_4\l4_4\obj\Debug\l4_4.pdb
