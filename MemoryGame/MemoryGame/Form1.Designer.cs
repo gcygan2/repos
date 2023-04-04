@@ -38,6 +38,7 @@ namespace MemoryGame
             this.timerZakrywacz = new System.Windows.Forms.Timer(this.components);
             this.timerCzasGry = new System.Windows.Forms.Timer(this.components);
             this.timerCzasPodgladu = new System.Windows.Forms.Timer(this.components);
+            this.panelKart = new System.Windows.Forms.Panel();
             this.SuspendLayout();
             // 
             // lblCzas
@@ -59,7 +60,6 @@ namespace MemoryGame
             this.lblCzasWartosc.Size = new System.Drawing.Size(51, 20);
             this.lblCzasWartosc.TabIndex = 1;
             this.lblCzasWartosc.Text = "label1";
-            //this.lblCzasWartosc.Click += new System.EventHandler(this.label1_Click);
             // 
             // lblPunktyWartosc
             // 
@@ -103,11 +103,19 @@ namespace MemoryGame
             // 
             this.timerCzasPodgladu.Interval = 1000;
             // 
+            // panelKart
+            // 
+            this.panelKart.Location = new System.Drawing.Point(13, 37);
+            this.panelKart.Name = "panelKart";
+            this.panelKart.Size = new System.Drawing.Size(429, 42);
+            this.panelKart.TabIndex = 5;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(463, 91);
+            this.Controls.Add(this.panelKart);
             this.Controls.Add(this.lblStartInfo);
             this.Controls.Add(this.lblPunktyWartosc);
             this.Controls.Add(this.lblPunkty);
@@ -131,6 +139,7 @@ namespace MemoryGame
         private System.Windows.Forms.Timer timerZakrywacz;
         private System.Windows.Forms.Timer timerCzasGry;
         private System.Windows.Forms.Timer timerCzasPodgladu;
+        private System.Windows.Forms.Panel panelKart;
     }
 }
 

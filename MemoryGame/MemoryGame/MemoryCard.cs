@@ -29,7 +29,8 @@ namespace MemoryGame
         }
         public void Odkryj()
         {
-
+            BackgroundImage = Obrazek;
+            Enabled = true;
         }
     }
 }
